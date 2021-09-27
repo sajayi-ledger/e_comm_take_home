@@ -47,10 +47,10 @@ npm run dev:start
 
 ### Desktop mock up
 
-![Desktop](https://github.com/LedgerHQ/edev-front-end-take-home/blob/master/public/images/desktop.png?raw=true)
+![Desktop](images/desktop.png)
 
 ### Mobile mock up
 
-![Mobile](https://github.com/LedgerHQ/edev-front-end-take-home/blob/master/public/images/mobile.png?raw=true)
+![Mobile](images/mobile.png)
 
 [endpoint]: https://jsonplaceholder.typicode.com/
