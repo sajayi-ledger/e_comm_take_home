@@ -5,6 +5,7 @@
 The main goal of this take home is to build a responsive website which filters a list of data from an API.
 
 You are expected to make requests to get mock data from this API [endpoint].
+
 Use the data from the API endpoint to populate the cards and sections of the mock up.
 
 ## The completed result should include:
@@ -20,7 +21,7 @@ Use the data from the API endpoint to populate the cards and sections of the moc
 
 - [picsum]
 
-## The Completed result should not include:
+## The completed result should not include:
 
 - Bootstrap styles.
 
