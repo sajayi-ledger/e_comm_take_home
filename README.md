@@ -16,9 +16,9 @@ Use the data from the API endpoint to populate the cards and sections of the moc
 
 - Style the layout to match the mockups.
 
-## Download placeholder images from
+## Use placeholder images from
 
-- [placeholder]
+- [picsum]
 
 ## The Completed result should not include:
 
@@ -58,5 +58,5 @@ npm run dev:start
 ![Mobile](images/mobile.png)
 
 [endpoint]: https://jsonplaceholder.typicode.com/
-[placeholder]: https://picsum.photos/
+[picsum]: https://picsum.photos/
 [devurl]: http://localhost:4019
