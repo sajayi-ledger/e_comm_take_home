@@ -12,9 +12,13 @@ Use the data from the API endpoint to populate the cards and sections of the moc
 - A Javascript file containing code to fetch the data and filter the list
 - A SCSS file containinig styles for the page.
 
-## Also take not to
+## Also try to
 
 - Style the layout to match the mockups.
+
+## Download placeholder images from
+
+- [placeholder]
 
 ## The Completed result should not include:
 
@@ -38,7 +42,7 @@ npm run dev:start
 
 ## Dev workflow
 
-- visit http://localhost:4019 to view the application
+- visit [devUrl] to view the application
 - Use HTML/CSS/JS to build the required application.
 - Do not use any additional libraries to complete the task.
 - Make as many commits as you wish.
@@ -54,3 +58,5 @@ npm run dev:start
 ![Mobile](images/mobile.png)
 
 [endpoint]: https://jsonplaceholder.typicode.com/
+[placeholder]: https://picsum.photos/
+[devurl]: http://localhost:4019
