@@ -47,7 +47,7 @@ npm run dev:start
 - Use HTML/CSS/JS to build the required application.
 - Do not use any additional libraries to complete the task.
 - Make as many commits as you wish.
-- When you modify the /src/css/main.scss or /src/css/main.js files, the browser is refreshed.
+- When you modify the /src/css/main.scss or /src/js/main.js files, the browser is refreshed.
 - After completing the take home the deliverable is the URL of your fork.
 
 ### Desktop mock up
