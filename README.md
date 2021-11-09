@@ -11,6 +11,7 @@ Use the data from the API endpoint to populate the cards and sections of the moc
 ## The completed result should include:
 
 - A Javascript file containing code to fetch the data and filter the list
+- The ability to view the next set of cards (Pagination)
 - A SCSS file containinig styles for the page.
 
 ## Also try to
